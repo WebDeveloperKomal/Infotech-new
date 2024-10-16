@@ -1,0 +1,33 @@
+.login-card .logo {
+    max-width: 150px;
+}
+
+.navbar-wrapper .navbar-logo .logo {
+    max-width: 132px;
+    background: #fff;
+}
+
+.clr_wht {
+    color: #fff !important;
+}
+
+.slide_img {
+    max-width: 150px;
+}
+
+.news-sidebar-widget .single-post .post-image img {
+    width: 65px;
+    height: 60px;
+}
+
+.header-top-area .header-top-right-part .social-links li a:hover {
+    color: #fff;
+}
+
+.service-item-box .service-item-thumb img {
+    max-height: 247px;
+}
+
+.dataTables_wrapper {
+    padding: 20px;
+}
